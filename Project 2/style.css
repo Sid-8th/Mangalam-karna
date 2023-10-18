@@ -1,0 +1,34 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00ff80;
+}
+#box {
+    font-size: 67px;
+    color: #3106f0;
+    text-decoration: underline solid brown;
+    text-transform: inherit;
+    text-shadow: -5px 1px 10px #ff0000;
+    margin-left:500px;
+    
+}
+p{
+   font-size: 17px;
+    letter-spacing: 1.2px;
+    word-spacing: 2.2px;
+    line-height: 1.7;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    font-size: large;
+    font-weight: 700;
+}
+.section {
+    width: 700px;
+   color: chartreuse;
+    border: 7px solid rgb(241, 9, 67);
+    background-image: linear-gradient( to right top , #09eb09 ,#dd3309, #08fad2 , #7406f1 , #f1e206);
+    margin: auto;
+
+    
+    
+}
+
