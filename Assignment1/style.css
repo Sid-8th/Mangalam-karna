@@ -1,0 +1,60 @@
+.container1 {
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px black
+    }
+    
+    .container2 {
+        background-color: rgb(255, 0, 0);
+        margin: 10px;
+    padding: 10px;
+    border: 2px black;
+    box-sizing: border-box;
+    }        .container3 {
+            background-color: rgb(229, 233, 14);
+            margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px black
+    
+        }
+
+p#p1{
+    background-color: #bae707;
+    float: right;
+    position: relative;
+    margin-top: 0px;
+        border: 2px solid black;
+    }
+    p#p2{
+        background-color: #8207e7;
+        float: right;
+        position: relative; 
+        margin-top: 0px;
+        border: 2px solid black;
+    }
+        p#p3{
+            background-color: #f15107;
+            float: right;
+            position: relative; 
+            margin-top: 0px;
+       border: 2px solid black;
+        }
+        h1 {
+            text-align: center;
+            color: #ee0a4e;
+        }
+        section {
+         height: 100px;
+         width: 80%;
+        }
+        @media (min-width: 785px) {
+            .container2 {
+                width: 80%;
+                
+                
+                
+            }
+        }

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/Mangalam-karna"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Project 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project 1",
+		"files.autoSave": "afterDelay"
+	}
+}

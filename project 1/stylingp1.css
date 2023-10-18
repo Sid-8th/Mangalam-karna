@@ -1,0 +1,41 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,200&family=Roboto:wght@100;300;400;500;700&display=swap");
+   html {
+    font-family: "jost" , sans-serif;
+    background-color: navajowhite;
+   }
+   h1 {
+    font-weight: bold;
+    font-size: 2rem;
+   }
+   li {
+    list-style: none;
+   }
+   li , p , lable {
+    font-family: Urbanist;
+    letter-spacing: 0.06;
+    line-height: 1.6;
+    font-size: 1.4rem;
+   }
+   audio{
+    box-shadow: rgba(100, 100, 111, 0.2); margin: 0px 7px 29px 0px;
+    border-radius: 25px;
+   }
+   progress {
+    height: 2rem;
+    width: 20rem;
+   }
+   ul , .blog-links{
+    display: flex;
+    gap: 1rem;
+   }
+   .logo{
+    margin-left: 80px;
+   }
+   figcaption {
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
